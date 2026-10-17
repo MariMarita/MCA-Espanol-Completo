@@ -24,3 +24,12 @@ Paquete de recursos (**Resource Pack**) con la traducción completa al **Españo
 2. Coloca el archivo **`MCA_Espanol_Completo.zip`** (sin descomprimir) dentro de la carpeta **`resourcepacks`** de tu Minecraft (`%appdata%\.minecraft\resourcepacks`).
 3. Abre Minecraft, entra a **Opciones → Paquetes de recursos** (*Resource Packs*) y pasa **`MCA_Espanol_Completo.zip`** a la columna de la derecha (**Seleccionados**), asegurándote de que quede **por encima** de `Mod Resources`.
 4. Selecciona el idioma **Español (España)** (`es_es`) o **Español (México)** (`es_mx`) en los ajustes de idioma de Minecraft.
+
+---
+
+## ✨ Créditos y Autoría
+
+* **Idea, pruebas y publicación del proyecto:** [LadyMary07 (`MariMarita`)](https://github.com/MariMarita)
+* **Ingeniería de traducción, corrección de personalidades y empaquetado:** **Antigravity** *(Asistente de IA de Google DeepMind)*
+* **Mods originales:** *Minecraft Comes Alive: Reborn* (Luke100000 / Conczin), *MCA: Quests* & *MCA: Conversations* (otectus), *Townstead* (AetherianArtificer).
+
